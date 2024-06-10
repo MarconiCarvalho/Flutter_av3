@@ -27,10 +27,10 @@ _body(){
   return Center(
     child: ListView(
       shrinkWrap: true,
-      padding: const EdgeInsets.all(12),
+      padding: const EdgeInsets.all(5),
       children: [
         SizedBox(
-          height: Get.height / 3,
+          height: Get.height / 1,
           ),
         EmailField(),
         SizedBox(height: 27),

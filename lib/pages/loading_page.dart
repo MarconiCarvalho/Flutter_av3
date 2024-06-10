@@ -30,7 +30,6 @@ void initState(){
           Image.asset('assets/shop_logo.png', height: 220,)
         ],
       ),
-    );
-    
+    ); 
   }
 }
